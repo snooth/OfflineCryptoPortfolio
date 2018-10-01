@@ -1,0 +1,29 @@
+## ***** Change to the number of tokens you purchased, below are examples  - ** MANDATORY **
+""" NUMBER OF COINS/TOKENS GO HERE - Syntax: symbol = amount of coins """
+btc = 0
+eth = 1
+xrp = 50000
+xlm = 1000
+etc = 1000
+doge = 30000
+dta = 507696
+
+""" PURCHASE PRICE GOES HERE - Syntax: day1_symbol = purchase price"""
+## ***** Change to how much you purchased them for, below are examples - ** MANDATORY **
+day1_btc = 8900
+day1_eth = 0
+day1_xrp = 0.398099
+day1_xlm = 0.304872
+day1_etc = 16.38
+day1_doge = 0.00364
+day1_dta = 0.00346281
+
+""" FROM URL LISTED ABOVE APPEND THE BELOW THREE VARIABLES """
+## Example Coins
+# 1 - BTC (Bitcoin)
+# 52 - XRP (XRP)
+# 1027 - ETH (Ethereum)
+# Change these variables, add/delete as needed - ** MANDATORY **
+coinId = ['1', '52', '1027', '512', '1321', '74', '2446']
+totalToken = [btc,xrp,eth,xlm,etc,doge,dta]
+initalIvest = [day1_btc,day1_xrp,day1_eth,day1_xlm,day1_etc,day1_doge,day1_dta]
