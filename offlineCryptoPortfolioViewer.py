@@ -12,7 +12,7 @@ from termcolor import colored, cprint
 from prettytable import PrettyTable
 
 ### USAGE ####
-# Created by SnoothDogg 2018 - snooth@gmail.com
+# Created by SnoothDogg 2018
 # Browse to this URL: https://api.coinmarketcap.com/v2/ticker/ and find the token "id" + "name"
 # Add/change them to coinId & totalToken as listed below, the below are just examples
 # Then create a new variable above for your inital purchase price (e.g. day1_xx = 0.00)
